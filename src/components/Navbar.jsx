@@ -1,6 +1,6 @@
 "use client";
 
-import { navbar } from "@/app/constants";
+import { navbar } from "@/constants";
 import Image from "next/image";
 import Link from "next/link";
 import React, { useState } from "react";
